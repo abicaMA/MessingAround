@@ -9,8 +9,6 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
-//gittest patch
-//gittest sertsrt
 public class MainActivity extends ActionBarActivity {
 
     private Button answerYesButton, answerNoButton;
